@@ -9,7 +9,7 @@ date: 2017-05-22
 
 In the NextGen Biologists: Essential Computing Skills for Molecular Biology programme we will organise a series of 3-day long workshops 
 
-The workshop will run on the 3rd - 5th (inclusive) of July 2017 at The 
+The workshop will run on the 3rd - 5th (Monday-Wednesday inclusive) of July 2017.
 
 ### Venue
 
