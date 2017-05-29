@@ -3,6 +3,7 @@ layout: default
 title: {{ site.name }}
 ---
 
+<!--
 <div id="home">
   <h1>News</h1>
   <ul class="posts">
@@ -10,4 +11,13 @@ title: {{ site.name }}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+</div>
+-->
+<div id="home">
+  {% for post in site.posts %}
+  <h1>News</h1>
+  
+  <span>{{ post.date | date_to_string }}</span>
+  {{ post.content }}
+  {% endfor %}
 </div>

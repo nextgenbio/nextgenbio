@@ -3,7 +3,7 @@ title:        Next Generation Biologists
 tagline:      BBSRC STARS-funded bioinformatics workshops at Universities of Leeds and Huddersfield
 baseurl:      ""
 url:		  "http://nextgenbiologists.org"
-paginate:     1
+paginate:     5
 
 # About/contact
 author:
