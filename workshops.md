@@ -7,7 +7,7 @@ date: 2017-05-22
 
 ## The next workshop
 
-The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017. It will be aimed at researchers with limited or no experience in programming and data analysis but who need these approaches in their research.
+The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017. It will be aimed at researchers with limited or no experience in programming and data analysis but who need these approaches in their research.
 
 ### Venue
 
@@ -15,11 +15,11 @@ The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusi
 
 ### Costs
 
-The workshop is open to all. All BBSRC-funded researchers, as well as staff and students from the Universities of Leeds and Huddersfield, will be eligible for free fees. For all other participants a course fee of £170 will apply that will need to be paid before the workshop begins.
+The workshop is free of charge for all BBSRC-funded researchers, as well as staff and students from the Universities of Leeds and Huddersfield. For all other participants a course fee of £170 will apply that will need to be paid before the workshop begins.
 
 ### Format of the course
 
-The format of the materials and the nature of the delivery will be based on the successful [Software Carpentry](http://software-carpentry.org/) blended-learning model where students learn by developing skills through hands-on live coding and peer programming sessions led by experienced instructors and supported by a small team of helpers. The workshop will be limited to 25 participants.
+The format of the materials and the nature of the delivery will be based on the successful [Software Carpentry](http://software-carpentry.org/) blended-learning model, where students learn by developing skills through hands-on live coding and peer programming sessions led by experienced instructors and supported by a small team of helpers. The workshop is limited to 25 participants.
 
 ### Preliminary programme:
 
