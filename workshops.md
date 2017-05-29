@@ -7,7 +7,7 @@ date: 2017-05-22
 
 ## The next workshop
 
-The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017. It will be aimed at researchers with limited or no experience in programming and data analysis but who need these approaches in their research.
+The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017. It will be aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research.
 
 ### Venue
 
@@ -15,7 +15,7 @@ The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusi
 
 ### Costs
 
-The workshop is free of charge for all BBSRC-funded researchers, as well as staff and students from the Universities of Leeds and Huddersfield. For all other participants a course fee of £170 will apply that will need to be paid before the workshop begins.
+The workshop is free of charge for all BBSRC-funded researchers, as well as staff and students from the Universities of Leeds and Huddersfield. For all other participants a course fee of £170 will apply that will need to be paid before the workshop begins. Travel and accommodation costs are not covered by the organisers.
 
 ### Format of the course
 
