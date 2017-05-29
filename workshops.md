@@ -7,7 +7,7 @@ date: 2017-05-22
 
 ## The next workshop
 
-The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017.
+The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017. It will be aimed at researchers with limited or no experience in programming and data analysis but who need these approaches in their research.
 
 ### Venue
 
