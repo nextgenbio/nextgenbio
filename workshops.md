@@ -7,7 +7,30 @@ date: 2017-05-22
 
 ## The next workshop
 
-The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017. It will be aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research.
+The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017. It will be aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research. If you are not sure if you are in this group, consider the following example.
+
+Given the file `test.txt`:
+~~~
+> less test.txt
+Apple
+Banana
+Kiwi
+Watermelon
+~~~
+
+What is the output of the `bash` command:
+
+`> cat test.txt | wc -lm`
+
+If the file `text.txt` is read into `R`:
+
+`test <- read.table(file=“test.txt”, header = FALSE)`
+
+What is the output of:
+
+`> str(test)`
+
+If you know the answers to these questions on top of your head, you are likely not the target audience for this workshop.
 
 ### Venue
 
