@@ -1,12 +1,12 @@
 # Setup
 title:        Next Generation Biologists
-tagline:      Upcoming website for the BBSRC STARS funded bioinformatics workshops at Universities of Leeds and Huddersfield
+tagline:      BBSRC STARS-funded bioinformatics workshops at Universities of Leeds and Huddersfield
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
+  name:       Jarek Bryk
   url:        http://nextgenbiologists.org
 
 # Gems
