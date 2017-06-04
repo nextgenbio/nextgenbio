@@ -24,7 +24,7 @@ What is the output of the `bash` command:
 
 If the file `text.txt` is read into `R`:
 
-`test <- read.table(file=“test.txt”, header = FALSE)`
+`test <- read.table(file = “test.txt”, header = FALSE)`
 
 What is the output of:
 
