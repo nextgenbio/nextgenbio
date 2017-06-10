@@ -28,3 +28,5 @@ The project is funded by the [BBSRC STARS programme](http://www.bbsrc.ac.uk/fund
 The main organisers of the workshops are [Dr Mary J. O'Connell](http://mol-evol.org), [Dr Martin Callaghan](https://uk.linkedin.com/in/martin-callaghan-2223a094) (both at the University of Leeds) and [Dr Jarek Bryk](http://bryklab.net) (at the University of Huddersfield). Drs Callaghan and Bryk are Software Carpentry Instructors.
 
 In addition, [Dr Chris Creevey](http://www.creeveylab.org) (at [the University of Aberystwyth](https://www.aber.ac.uk/en/)) and [Dr Liz Duncan](http://duncanlab.weebly.com) (at the University of Leeds) will oversee curriculum design and selection of the participants.
+
+You can contact us directly with questions about the project at [@jarekbryk](https://twitter.com/jarekbryk), [@evol_molly](https://twitter.com/Evol_Molly) or [@nextgenbiol](https://twitter.com/nextgenbiol).
