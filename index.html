@@ -14,9 +14,8 @@ title: {{ site.name }}
 </div>
 -->
 <div id="home">
-  {% for post in site.posts %}
-  <h1>News</h1>
-  
+<h1>News</h1>
+  {% for post in site.posts %} 
   <span>{{ post.date | date_to_string }}</span>
   {{ post.content }}
   {% endfor %}
