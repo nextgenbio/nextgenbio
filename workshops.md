@@ -34,7 +34,7 @@ If you know the answers to these questions on top of your head, you are likely n
 
 ### Venue
 
-[The University Of Leeds](http://leeds.ac.uk), [Leeds, UK](https://www.google.co.uk/maps/place/University+of+Leeds/@53.8066846,-1.5572268,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c02da8a25af:0xd388478487e96af9!8m2!3d53.8066815!4d-1.5550328?hl=en), [Room 8.49 Worsley Building](https://it.leeds.ac.uk/info/76/clusters/527/fourman).
+[The University Of Leeds](http://leeds.ac.uk), [Leeds, UK](https://www.google.co.uk/maps/place/University+of+Leeds/@53.8066846,-1.5572268,17z/data=!3m1!4b1!4m5!3m4!1s0x48795c02da8a25af:0xd388478487e96af9!8m2!3d53.8066815!4d-1.5550328?hl=en), [Fourman Cluster (room 8.49), Worsley Building, Clarendon Way, Leeds LS2 9JT](https://it.leeds.ac.uk/info/76/clusters/527/fourman).
 
 ### Costs
 
