@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /workshops/
+permalink: /workshops_01/
 date: 2017-05-22
 ---
 
-## The next workshop
+## The first workshop
 
-The next (and first!) workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017. It will be aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research. If you are not sure if you are in this group, consider the following example.
+The first workshop will run on the 3rd-5th (Monday-Wednesday inclusive) of July 2017. It will be aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research. If you are not sure if you are in this group, consider the following example.
 
 Given the file `test.txt`:
 ~~~
