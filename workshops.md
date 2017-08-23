@@ -7,7 +7,9 @@ date: 2017-08-01
 
 ## The next workshop
 
-The next (and second!) workshop will run on the 13-15th (Wednesday-Friday inclusive) of September 2017. It is aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. If you are not sure if you are in this group, consider the following example.
+**The next workshop is postponed until December**
+
+The next (and second!) workshop will run in December 2017 (exact date TBA). It is aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. If you are not sure if you are in this group, consider the following example.
 
 Given the file `test.txt`:
 ~~~
