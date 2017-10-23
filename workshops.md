@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /workshops/
-date: 2017-08-01
+date: 2017-10-23
 ---
 
 ## The next workshop
 
-**The next workshop is postponed until December**
-
-The next (and second!) workshop will run in December 2017 (exact date TBA). It is aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. If you are not sure if you are in this group, consider the following example.
+The next (and second!) workshop will run on 13-15th December 2017. It is aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. If you are not sure if you are in this group, consider the following example.
 
 Given the file `test.txt`:
 ~~~
@@ -36,7 +34,7 @@ If you know the answers to these questions on top of your head, you are likely *
 
 ### Venue
 
-[The University of Huddersfield](http://hud.ac.uk), [Huddersfield, UK](https://goo.gl/maps/u2socsEk3as), building and room TBA.
+[The University of Huddersfield](http://hud.ac.uk), [Huddersfield, UK](https://www.hud.ac.uk/about/maps/#/where), building and room TBA.
 
 ### Costs
 
