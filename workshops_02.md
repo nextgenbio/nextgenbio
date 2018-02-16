@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /workshops/
+permalink: /workshops_02/
 date: 2017-10-23
 ---
 
