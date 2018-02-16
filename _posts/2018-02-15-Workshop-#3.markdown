@@ -1,0 +1,12 @@
+---
+layout: default
+title:  "Registration is open for the Next Generation Biologists' workshop #3"
+date:   2018-02-15
+categories: main
+---
+
+## Registration is open for workshop #3
+
+The third time! Our workshop #3 will take place **at the University of Leeds on 21-23rd March 2018** and we have just opened the registration. **Application deadline: 5th March**. Go ahead and [read all about the workshop](/workshops/) as well as about [who is running the project](/about/) and [how to apply](/application/).
+
+We are looking forward to reading your applications :-)
