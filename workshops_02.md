@@ -2,29 +2,29 @@
 layout: page
 title: About
 permalink: /workshops/
-date: 2018-02-15
+date: 2017-10-23
 ---
 
 ## The next workshop
 
-The next (and third!) workshop will run on 21-23rd March 2018. It is aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. If you are not sure if you are in this group, consider the following example.
+The next (and second!) workshop will run on 13-15th December 2017. It is aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. If you are not sure if you are in this group, consider the following example.
 
 Given the file `test.txt`:
 ~~~
 > cat test.txt
-Apple	5
-Banana	12
-Kiwi	7
-Watermelon	2.54
+Apple
+Banana
+Kiwi
+Watermelon
 ~~~
 
 What is the output of the `bash` command:
 
-`> cat test.txt | wc -l`
+`> cat test.txt | wc -lm`
 
 If the file `text.txt` is then read into `R`:
 
-`test <- read.table(file = “test.txt”, sep="\t", header = FALSE)`
+`test <- read.table(file = “test.txt”, header = FALSE)`
 
 What is the output of:
 
@@ -34,7 +34,7 @@ If you know the answers to these questions on top of your head, you are likely *
 
 ### Venue
 
-[The University of Leeds](http://leeds.ac.uk), [Leeds, UK](http://www.leeds.ac.uk/campusmap), Room: [EC Stoner 9.90](http://students.leeds.ac.uk/site/custom_scripts/ajax_loader.php?type=room&id=99925).
+[The University of Huddersfield](http://hud.ac.uk), [Huddersfield, UK](https://www.hud.ac.uk/about/maps/#/where), building and room TBA.
 
 ### Costs
 
