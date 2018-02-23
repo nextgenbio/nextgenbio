@@ -25,7 +25,7 @@ The material and learning objectives of our workshops will cover the essential s
 
 The project is funded by the [BBSRC STARS programme](http://www.bbsrc.ac.uk/funding/filter/stars/).
 
-The main organisers of the workshops are [Dr Mary J. O'Connell](http://mol-evol.org), [Dr Martin Callaghan](https://uk.linkedin.com/in/martin-callaghan-2223a094) (both at the University of Leeds) and [Dr Jarek Bryk](http://bryklab.net) (at the University of Huddersfield). Drs Callaghan and Bryk are Software Carpentry Instructors.
+The main organisers of the workshops are [Dr Mary J. O'Connell](http://mol-evol.org), [Dr Martin Callaghan](https://uk.linkedin.com/in/martin-callaghan-2223a094) (both at the University of Leeds) and [Dr Jarek Bryk](http://bryklab.net) (at the University of Huddersfield). Drs Callaghan and Bryk are Software Carpentry Instructors. The workshops are also run by Dr Alastair Droop and Dr Bede Constantinides from the University of Leeds.
 
 In addition, [Dr Chris Creevey](http://www.creeveylab.org) (at [the University of Aberystwyth](https://www.aber.ac.uk/en/)) and [Dr Liz Duncan](http://duncanlab.weebly.com) (at the University of Leeds) will oversee curriculum design and selection of the participants.
 
