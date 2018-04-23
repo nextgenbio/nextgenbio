@@ -1,0 +1,12 @@
+---
+layout: default
+title:  "Registration is open for the Next Generation Biologists' workshop #4"
+date:   2018-04-23
+categories: main
+---
+
+## Registration is open for workshop #4
+
+The fourth time! Our workshop #3 will take place **at the University of Huddersfield on 18-20th June 2018** and we have just opened the registration. **Application deadline: 25th May**. Go ahead and [read all about the workshop](/workshops/) as well as about [who is running the project](/about/) and [how to apply](/application/).
+
+We are looking forward to reading your applications :-)

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /workshops/
-date: 2018-04-23
+permalink: /workshops_03/
+date: 2018-02-15
 ---
 
 ## The next workshop
 
-The next (and fourth!) workshop will run on 18-20th June 2018 at the University of Huddersfield. It is aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. If you are not sure if you are in this group, consider the following example.
+The next (and third!) workshop will run on 21-23rd March 2018. It is aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. If you are not sure if you are in this group, consider the following example.
 
 Given the file `test.txt`:
 ~~~
@@ -34,7 +34,7 @@ If you know the answers to these questions on top of your head, you are likely *
 
 ### Venue
 
-[The University of Huddersfield](http://hud.ac.uk), [Huddersfield, UK](https://www.hud.ac.uk/about/maps/#/where), building and room TBA.
+[The University of Leeds](http://leeds.ac.uk), [Leeds, UK](http://www.leeds.ac.uk/campusmap), Room: [EC Stoner 9.90](http://students.leeds.ac.uk/site/custom_scripts/ajax_loader.php?type=room&id=99925).
 
 ### Costs
 
@@ -46,15 +46,15 @@ The format of the materials and the nature of the delivery will be based on the 
 
 ### Preliminary programme:
 
-- **Monday**
+- **Wednesday**
 
 Introduction to the fundamentals of UNIX, command-line interface and shell.
 
-- **Tuesday**
+- **Thursday**
 
 Introduction to fundamentals of R and R Studio, including data and analysis reproducibility, concluded with example analysis of gene expression data.
 
-- **Wednesday**
+- **Friday**
 
 A "hackathon" day, during which participants will use skills learned in earlier days to solve a real-life data analysis problem of their choosing or a detailed walk-through a real-life dataset analysis.
 
