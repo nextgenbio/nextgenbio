@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /workshops/
-date: 2018-10-13
+permalink: /workshops_04/
+date: 2018-04-23
 ---
 
 ## The next workshop
 
-The next (fifth and sixth!) workshops will run on 12-15th December 2018 at the uUniversity of Huddersfield and on 16-18th January 2019 at the University of Leeds. Both are aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. **These two workshops will be the last in our series addressed to these participants**. If you are not sure if you are in this group, consider the following example.
+The next (and fourth!) workshop will run on 18-20th June 2018 at the University of Huddersfield. It is aimed at researchers with limited or no previous experience in programming and data analysis but who need these approaches in their research in the life sciences. If you are not sure if you are in this group, consider the following example.
 
 Given the file `test.txt`:
 ~~~
@@ -46,15 +46,15 @@ The format of the materials and the nature of the delivery will be based on the 
 
 ### Preliminary programme:
 
-- **Wednesday**
+- **Monday**
 
 Introduction to the fundamentals of UNIX, command-line interface and shell.
 
-- **Thursday**
+- **Tuesday**
 
 Introduction to fundamentals of R and R Studio, including data and analysis reproducibility, concluded with example analysis of gene expression data.
 
-- **Friday**
+- **Wednesday**
 
 A "hackathon" day, during which participants will use skills learned in earlier days to solve a real-life data analysis problem of their choosing or a detailed walk-through a real-life dataset analysis.
 
