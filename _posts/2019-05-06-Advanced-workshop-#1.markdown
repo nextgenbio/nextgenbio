@@ -5,7 +5,7 @@ date:   2019-05-06
 categories: main
 ---
 
-## Registration is open for the first Advanced NGB workshop§
+## Registration is open for the first Advanced NGB workshop
 
 We are happy to announce the first of two workshops on the Advanced concepts in our Next Generation Biologists series, which will take place **at the University of Leeds on the 17-18th June (Mon-Tue)**. In this context, "Advanced" means:
 
