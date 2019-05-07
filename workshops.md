@@ -7,7 +7,7 @@ date: 2019-05-06
 
 ## The next workshop
 
-The next workshop will run on 17-18th June 2018 at the University of Leeds. Unlike our previous workshops, this one is aimed at researchers who are comfortable with command line. [Register here.](https://forms.gle/jd5sym9nz8W7NjnK7)
+The next workshop will run on 17-18th June 2018 at the University of Leeds. Unlike our previous workshops, this one is aimed at researchers who are comfortable with command line.
 
 ### Venue
 
