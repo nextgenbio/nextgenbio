@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /workshops/
+permalink: /workshops_07/
 date: 2019-05-06
 ---
 
 ## The next workshop
 
-The next workshop will run on 16-17th December 2019 at the University of Leeds. It will cover project organisation, command line for the analysis of next-generation sequencing data and introduction to cloud computing.
+The next workshop will run on 16-17th July 2018 at the University of Leeds. Unlike our previous workshops, this one is aimed at researchers who are comfortable with command line.
 
 ### Venue
 
@@ -15,7 +15,7 @@ The next workshop will run on 16-17th December 2019 at the University of Leeds. 
 
 ### Costs
 
-The workshop is free of charge for all BBSRC-funded researchers, as well as staff and students from the Universities of Leeds and Huddersfield (whether they are BBSRC funded or not). For all other participants a course fee of £100 will apply that will need to be paid before the workshop begins. Travel and accommodation costs are **not** covered by the organisers.
+The workshop is free of charge for all BBSRC-funded researchers, as well as staff and students from the Universities of Leeds and Huddersfield. For all other participants a course fee of £100 will apply that will need to be paid before the workshop begins. Travel and accommodation costs are **not** covered by the organisers.
 
 ### Format of the course
 
@@ -25,10 +25,10 @@ The format of the materials and the nature of the delivery will be based on the 
 
 - **Monday**
 
-Command line for organisation and analysis of high-throughput sequencing data
+HPC in a day (spuninng-up-for-the-occasion of a Cloud HPC cluster)
 
 - **Tuesday**
 
-Introduction to cloud computing
+Cloud in a day (seting up your own RStudio server, look at Machine Learning tools, tour of the Google Genomics/AWS Genomics/Azure Genomics platforms)
 
 The detailed programme will be available shortly before the beginning of the course.
