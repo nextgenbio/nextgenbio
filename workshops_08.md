@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /workshops/
-date: 2019-12-10
+permalink: /workshops_08/
+date: 2019-05-06
 ---
 
 ## The next workshop
 
-The next workshop will run on 16-17th January 2019 at the University of Leeds. It will cover accessing, using and setting up high-performance computing on remote servers. Some familiarity with command line will be needed, but please [contact us](mailto:nextgenbiolstars@gmail.com) if you are not sure whether your familiarity is enough :-).
+The next workshop will run on 16-17th December 2019 at the University of Leeds. It will cover project organisation, command line for the analysis of next-generation sequencing data and introduction to cloud computing.
 
 ### Venue
 
@@ -23,12 +23,12 @@ The format of the materials and the nature of the delivery will be based on the 
 
 ### Preliminary programme:
 
-- **Thursday**
+- **Monday**
 
-HPC in a day (spuninng-up-for-the-occasion of a Cloud HPC cluster)
+Command line for organisation and analysis of high-throughput sequencing data
 
-- **Friday**
+- **Tuesday**
 
-Cloud in a day (seting up your own RStudio server, look at Machine Learning tools, tour of the Google Genomics/AWS Genomics/Azure Genomics platforms)
+Introduction to cloud computing
 
 The detailed programme will be available shortly before the beginning of the course.
